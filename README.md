@@ -1,9 +1,3 @@
-# Laravel Todo Application
-
-![Todo App Screenshot](https://via.placeholder.com/800x400.png?text=Todo+App+Screenshot)  
-*(Replace with actual screenshot of your app)*
-
-A simple yet powerful Todo application built with Laravel to manage your daily tasks efficiently.
 
 ## Features ✨
 
